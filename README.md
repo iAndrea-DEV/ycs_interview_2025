@@ -1,4 +1,4 @@
-# Yale Facebook Scraper (MVP)
+# Yale Facebook Scraper
 
 Scrapes publicly available fields (no photos) from Yale’s online Facebook/directory **card view**:
 
